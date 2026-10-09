@@ -1,0 +1,20 @@
+# Tema visual del simulador: académico, sobrio y legible en notebooks.
+[theme]
+base = "light"
+primaryColor = "#1f4e79"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f4f6f9"
+textColor = "#1d2433"
+borderColor = "#dde2ea"
+font = "sans-serif"
+headingFont = "serif"
+baseFontSize = 15
+baseRadius = "0.5rem"
+headingFontSizes = ["2.05rem", "1.5rem", "1.2rem", "1.05rem", "0.95rem", "0.9rem"]
+dataframeHeaderBackgroundColor = "#eef2f7"
+
+[client]
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false

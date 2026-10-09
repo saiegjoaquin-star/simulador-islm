@@ -1,0 +1,3 @@
+# Probado con Python 3.10–3.13, Streamlit 1.65 y Plotly 5.24–7.1.
+streamlit>=1.65,<2
+plotly>=5.24,<8
